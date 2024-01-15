@@ -33,7 +33,7 @@ El presente trabajo consistió en desarrollar una Landing Page para GreenArq, un
 ![Footer](https://github.com/PaulaGG01/PaulaGG01/assets/133727700/728780f1-c7d6-49cc-a10d-68aace20b81f)
 
 ### **- Link de página web:**
-**http://127.0.0.1:5500/index.html**
+**[http://127.0.0.1:5500/index.html](https://charming-gumdrop-d6e74b.netlify.app/)https://charming-gumdrop-d6e74b.netlify.app/**
 
 
 **Gracias!**
